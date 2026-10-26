@@ -1,0 +1,1 @@
+{"name":"nexo-legal-demo","version":"1.0.0","private":true,"description":"Sitio demostrativo Nexo Legal por Dorenio","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
